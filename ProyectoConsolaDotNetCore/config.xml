@@ -1,0 +1,6 @@
+<configuration>
+    <connectionStrings>
+        <add name="UsuariosDB" connectionString="Server=localhost,1433;Database=UsuariosDB;User Id=SA;Password=Password123;" />
+    </connectionStrings>
+    <logFilePath>log/usuarios_log.txt</logFilePath>
+</configuration>

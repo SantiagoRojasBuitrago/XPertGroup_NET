@@ -1,0 +1,4 @@
+ID: 1, Nombre: Juan, Apellido: Pérez, Edad: 30, Correo: juan.perez@example.com, Hobbies: fútbol-lectura-viajar, Activo: True, FechaCreacion: 11/09/2024 4:39:05 PM
+ID: 2, Nombre: Ana, Apellido: Gómez, Edad: 25, Correo: ana.gomez@example.com, Hobbies: música-danza-cine, Activo: False, FechaCreacion: 11/09/2024 4:39:05 PM
+ID: 3, Nombre: Carlos, Apellido: Martínez, Edad: 35, Correo: carlos.martinez@example.com, Hobbies: ajedrez-gimnasio-lectura, Activo: True, FechaCreacion: 11/09/2024 4:39:05 PM
+ID: 4, Nombre: Laura, Apellido: Sánchez, Edad: 28, Correo: laura.sanchez@example.com, Hobbies: pintura-fotografía-ciclismo, Activo: True, FechaCreacion: 11/09/2024 4:39:05 PM
